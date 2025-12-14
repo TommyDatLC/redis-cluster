@@ -1,0 +1,1 @@
+redis-cli --cluster create machine1IP:7000 machine2IP:7000 machine1IP:7001 --cluster-replicas 0

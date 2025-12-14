@@ -1,0 +1,1 @@
+redis-server './7000-machine2/redis.conf'
